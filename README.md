@@ -1,5 +1,6 @@
 # use this notes for the first time
 this is simple architecture about mvc 
+
 git init //把这个目录变成Git可以管理的仓库
 
 git add README.md //文件添加到仓库
