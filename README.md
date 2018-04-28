@@ -14,3 +14,7 @@ $ git pull --rebase origin master//下载
 
 
 git push -u origin master //把本地库的所有内容推送到远程库上
+
+//远程仓库地址变更
+git remote rm origin
+git remote add origin [url]
